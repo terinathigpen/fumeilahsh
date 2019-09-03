@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yaecaighob.matthewvickery.org/sitemap.xml
